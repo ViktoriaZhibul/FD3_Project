@@ -1,0 +1,31 @@
+.footer{
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 15px 3%;
+    max-width: 1440px;
+    min-height: 85px;
+    height: auto;
+    background-color: #277DBA;
+    display: flex;
+}
+.footer__description-font{
+    font-weight: 400;
+    font-size: 1.6em;
+    line-height: 1.6;
+    color: #CBE0EE;
+}
+.footer__descriptin-font_color{
+    color: #67A6D3;
+}
+.footer__copyright{
+    margin: 15px 0px;
+    width: 100%;
+    text-align: left;
+}
+.footer__button{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 50px;
+    color: #67A6D3;
+    text-decoration: none;
+}

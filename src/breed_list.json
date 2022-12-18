@@ -1,0 +1,1271 @@
+[
+  {
+    "id": 1,
+    "name": "Австралийская гончая",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Гладкоошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Austrian_Hound/bd133bl-hub-austrian-black-and-tan-hound-adult-standing.png?raw=true"
+  },
+  {
+    "id": 2,
+    "name": "Австралийская пастушья собака",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Australian_Short_Tail_Cattle_Dog/bd19bl-hub-australian-stumpy-taile-cattle-dog-adult-standing.png?raw=true"
+  },
+  {
+    "id": 3,
+    "name": "Австралийский келпи",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Australian_Kelpie/bd131bl-hub-australian-kelpie-adult-standing.png?raw=true"
+  },
+  {
+    "id": 4,
+    "name": "Австрийский пинчер",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пинчеры",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Austrian_Pinscher/bd134bl-hub-austrian-pinscher-adult-standing.png?raw=true"
+  },
+  {
+    "id": 5,
+    "name": "Австралийский силки терьер",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": "Терьеры",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Australian_Silky_Terrier/bd105bl-hub-australian-silky-terrier-adult-standing.png?raw=true"
+  },
+  {
+    "id": 6,
+    "name": "Австралийский таксообразный бракк",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Alpine_Dachsbracke/bd123bl-hub-alpine-dachsbracke-adult-standing.png?raw=true"
+  },
+  {
+    "id": 7,
+    "name": "Австралийский терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Australian_Terrier/bd132bl-hub-australian-terrier-adult-sitting.png?raw=true"
+  },
+  {
+    "id": 8,
+    "name": "Американская акита ину",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/American_Akita/bd124bl-hub-american-akita-adult-standing.png?raw=true"
+  },
+  {
+    "id": 9,
+    "name": "Американский водный спаниель",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/American_Water_Spaniel/bd127bl-hub-american-water-spaniel-adult-standing.png?raw=true"
+  },
+  {
+    "id": 10,
+    "name": "Американский кокер спаниель",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/American_Cocer_Spaniel/bd24bl-hub-american-cocker-spaniel-adult-standing.png?raw=true"
+  },
+  {
+    "id": 11,
+    "name": "Американский стаффордширский терьер",
+    "size": "Средние",
+    "category": "Выводили для боев",
+    "group": "Терьеры",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/American%20Staffordshire%20Terrier/bd126bl-hub-american-staffordshire-terrier-adult-standing.png?raw=true"
+  },
+  {
+    "id": 12,
+    "name": "Английский бульдог",
+    "size": "Средние",
+    "category": "Декоративные",
+    "group": "Пинчеры",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/English_bulldog/bd10bl-hub-bulldog-adult-standing.png?raw=true"
+  },
+  {
+    "id": 13,
+    "name": "Английский кокер спаниель",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/English_Cocker_Spaniel/bd58bl-hub-english-cocker-spaniel-adult-standing.png?raw=true"
+  },
+  {
+    "id": 14,
+    "name": "Английский поинтер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Легавые",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/English_Pointer/bd269bl-hub-english-pointer-adult-standing.png?raw=true"
+  },
+  {
+    "id": 15,
+    "name": "Английский сеттер",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Легавые",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/English_Setter/bd59bl-hub-english-setter-adult-standing.png?raw=true"
+  },
+  {
+    "id": 16,
+    "name": "Английский спрингер-спениель",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Длинноошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/English_Springer_Spaniel/bd60bl-hub-english-springer-spaniel-adult-standing.png?raw=true"
+  },
+  {
+    "id": 17,
+    "name": "Английский той терьер",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": "Терьеры",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/English_toy_terrier/bd187bl-hub-english-toy-terrier-adult-sitting.png?raw=true"
+  },
+  {
+    "id": 18,
+    "name": "Аргентинский дог",
+    "size": "Крупные",
+    "category": "Выводили для боев",
+    "group": "Пинчеры ",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Dogo_Argentino/bd179bl-hub-dogo-argentino-adult-standing.png?raw=true"
+  },
+  {
+    "id": 19,
+    "name": "Арденский бувье",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Arden_Bouvier/bd38bl-hub-bouvier-des-ardennes-adult-standing.png?raw=true"
+  },
+  {
+    "id": 20,
+    "name": "Артезиао-нормандский бассет",
+    "size": "Средние",
+    "category": "Охотничья",
+    "group": "Гончие",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Artesian-Norman_Basset/bd136bl-hub-basset-artesien-normand-adult-standing.png?raw=true"
+  },
+  {
+    "id": 21,
+    "name": "Афганская борзая",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Afghan_Hound/afghan-hound.png?raw=true"
+  },
+  {
+    "id": 22,
+    "name": "Аффенпинчер",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": "Пинчеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Affenpinscher/bd121bl-hub-affenpinscher-adult-standing.png?raw=true"
+  },
+  {
+    "id": 23,
+    "name": "Барбет",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Ретриверы",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Barbet/bd135bl-hub-barbet-adult-standing.png?raw=true"
+  },
+  {
+    "id": 24,
+    "name": "Басенджи",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Basenji/bd28bl-hub-basenji-adult-standing.png?raw=true"
+  },
+  {
+    "id": 25,
+    "name": "Бассет хаунд",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Basset_Hound/bd29bl-hub-basset-hound-adult-standing.png?raw=true"
+  },
+  {
+    "id": 26,
+    "name": "Бедлингтон терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Bedlington_Terrier/bd143bl-hub-bedlington-terrier-adult-standing.png?raw=true"
+  },
+  {
+    "id": 27,
+    "name": "Белая швейцарская овчарка",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/White_Swiss_Shepherd/bd325bl-hub-white-swiss-shepherd-dog-adult-standing.png?raw=true"
+  },
+  {
+    "id": 28,
+    "name": "Бельгийская овчарка",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Belgian_Shepherd/bd30bl-hub-belgian-shepherd-dog-adult-standing.png?raw=true"
+  },
+  {
+    "id": 29,
+    "name": "Бельгийский гриффон",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": "Мелкие бельгийские собаки",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Belgian_Griffon/bd209bl-hub-griffon-belge-adult-standing.png?raw=true"
+  },
+  {
+    "id": 30,
+    "name": "Бернский зенненхунд",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пинчеры и шнауцеры, молоссы",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Bernese_Mountain_Dog/bd18bl-hub-bernese-mountain-dog-adult-standing.png?raw=true"
+  },
+  {
+    "id": 31,
+    "name": "Бигль",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Beagle/bd5bl-hub-beagle-adult-standing.png?raw=true"
+  },
+  {
+    "id": 32,
+    "name": "Бильмастиф",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Bullmastiff/bd44bl-hub-bullmastiff-adult-standing.png?raw=true"
+  },
+  {
+    "id": 33,
+    "name": "Бишон фризе",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": "Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Bichon_Frize/bd31bl-hub-bichon-frise-adult-standing.png?raw=true"
+  },
+  {
+    "id": 34,
+    "name": "Болоньез",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Bolognese/bd33bl-hub-bolognese-adult-standing.png?raw=true"
+  },
+  {
+    "id": 35,
+    "name": "Бордер колли",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Border_Collie/bd34bl-border-collie-adult-standing.png?raw=true"
+  },
+  {
+    "id": 36,
+    "name": "Бордер терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Border_Terrier/bd35bl-hub-border-terrier-adult-standing.png?raw=true"
+  },
+  {
+    "id": 37,
+    "name": "Бордосский дог",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Dogu_de_Bordeaux/bd57bl-hub-dogue-de-bordeaux-adult-standing.png?raw=true"
+  },
+  {
+    "id": 38,
+    "name": "Босерон",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Beauceron/bd142bl-hub-beauce-sheep-dog-adult-standing.png?raw=true"
+  },
+  {
+    "id": 39,
+    "name": "Бостон терьер",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": "Терьеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Boston_Terrier/bd37bl-hub-boston-terrier-adult-standing.png?raw=true"
+  },
+  {
+    "id": 40,
+    "name": "Бразильский терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Brazilian_Terrier/bd157bl-hub-brazilian-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 41,
+    "name": "Бретонская гончая",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Breton_Hound/bd138bl-hub-basset-fauve-de-bretagne-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 42,
+    "name": "Бриар",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Briard/bd40bl-hub-briard-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 43,
+    "name": "Брюссельский гриффон",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Brussels_Griffon/bd42bl-hub-griffon-bruxellois-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 44,
+    "name": "Бурбонский бракк",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Легавые",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Bourbon_Bracque/bd153bl-hub-bourbonnais-pointing-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 45,
+    "name": "Веймаранер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Легавые",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Weimaraner/bd114bl-hub-weimaraner-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 46,
+    "name": "Вельш корги кардиган",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Welsh_Corgi_Cardigan/bd20bl-hub-welsh-corgi-cardigan-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 47,
+    "name": "Вельш корги пемброк",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Welsh_Corgi_Pembroke/bd15bl-hub-welsh-corgi-pembroke-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 48,
+    "name": "Вельш спрингер спаниель",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Welsh_Springer_Spaniel/bd322bl-hub-welsh-springer-spaniel-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 49,
+    "name": "Вельштерьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Welsh_Terrier/bd115bl-hub-welsh-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 50,
+    "name": "Вест-хайленд-уайт-терьер",
+    "size": "Мелкие",
+    "category": "Охотничья",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/West_Highland_White_Terrier/bd116bl-hub-west-highland-white-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 51,
+    "name": "Восточно-сибирская лайка",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/East_Siberian_Laika/bd185bl-hub-east-siberian-laika-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 52,
+    "name": "Гаванская болонка",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Havana_Lap_Dog/bd72bl-hub-havanese-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 53,
+    "name": "Голландская овчарка",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Dutch_Shepherd/bd183bl-hub-dutch-shepherd-dog-adult-sitting.png?raw=true\r\n"
+  },
+  {
+    "id": 54,
+    "name": "Голубой пикардийский спаниель",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Blue_Picardy_Spaniel/bd148bl-hub-blue-picardy-spaniel-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 55,
+    "name": "Грейхаунд",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Greyhound/bd70bl-hub-greyhound-adult-sitting.png?raw=true\r\n"
+  },
+  {
+    "id": 56,
+    "name": "Греческая гончая",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Greek_Hound/bd216bl-hub-hellenic-hound-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 57,
+    "name": "Грифон Кольтаса",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Легавые",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Griffon_Korthals/bd327bl-hub-wire-haired-pointing-griffon-korthals-adult-sitting.png?raw=true\r\n"
+  },
+  {
+    "id": 58,
+    "name": "Далматин",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Dalmatian/bd55bl-hub-dalmatian-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 59,
+    "name": "Дирхаунд",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Deerhound/bd291bl-hub-deerhound-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 60,
+    "name": "Западно-сибирская лайка",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/West_Siberian_Laika/bd323bl-hub-west-siberian-laika-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 61,
+    "name": "Золотистый ретривер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Ретриверы",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Golden_retriever/bd13bl-hub-golden-retriever-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 62,
+    "name": "Ирландский волкадав",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Irish_Wolfhound/bd76bl-hub-irish-wolfhound-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 63,
+    "name": "Ирландский красный сеттер",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Легавые",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Irish_Red_Setter/bd75bl-hub-irish-red-setter-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 64,
+    "name": "Испанская гончая",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Гончие ",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Spanish_Hound/bd308bl-hub-spanish-hound-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 65,
+    "name": "Испанский мастиф",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Spanish_Mastiff/bd106bl-hub-spanish-mastiff-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 66,
+    "name": "Итальянская водяная собака",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Italian_Water_Dog/bd239bl-hub-romagna-water-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 67,
+    "name": "Итальянский вольпино",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Italian_Volpino/bd321bl-hub-italian-volpino-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 68,
+    "name": "Йоркширский терьер",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": "Терьеры",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Yorkshire_Terrier/bd9bl-hub-yorkshire-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 69,
+    "name": "Кавалер-кинг-чарльз-спаниель",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Cavalier_King_Charles_Spaniel/bd48bl-hub-cavalier-king-charles-spaniel-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 70,
+    "name": "Каи",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Kai/bd232bl-hub-kai-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 71,
+    "name": "Кангальский карабаш",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Kangal_Karabash/bd25bl-hub-kangal-shepherd-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 72,
+    "name": "Кане корсо",
+    "size": "Крупные",
+    "category": "Выводили для боев",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Italian_Cane_Corso/bd47bl-hub-cane-corso-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 73,
+    "name": "Керн терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Cairn_Terrier/bd45bl-hub-cairn-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 74,
+    "name": "Китайская хохлатая собака",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Бесшерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Chinese_crested_dog/bd50bl-hub-chinese-crested-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 75,
+    "name": "Колли",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Collie_Rough/bd285bl-hub-collie-rough-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 76,
+    "name": "Комондор",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Komondor/bd81bl-hub-komondor-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 77,
+    "name": "Континентальный той-спаниель (фален)",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Continental_Toy_Spaniel_(Phalene)/bd171bl-continental-toy-spaniel-adult-lying-down.png?raw=true\r\n"
+  },
+  {
+    "id": 78,
+    "name": "Котон де тулеар",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Coton_de_Tulear/bd53bl-hub-coton-de-tulear-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 79,
+    "name": "Крашская овчарка",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Crash_Sheepdog/bd233bl-hub-karst-shepherd-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 80,
+    "name": "Лабрадор ретривер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Ретриверы",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Labrador_Retriever/bd1bl-hub-labrador-retriever-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 81,
+    "name": "Левхен",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Levchen/bd244bl-hub-lowchen-little-lion-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 82,
+    "name": "Лейкленд терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Lakeland_Terrier/bd240bl-hub-lakeland-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 83,
+    "name": "Леонбергер",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Leonberger/bd83bl-hub-leonberger-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 84,
+    "name": "Лхаса апсо",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Lhasa_Apso/bd84bl-hub-lhasa-apso-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 85,
+    "name": "Малая итальянская борзая",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Small_Italian_Greyhound/bd77bl-hub-italian-greyhound-adult-sitting.png?raw=true\r\n"
+  },
+  {
+    "id": 86,
+    "name": "Мальтезе",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Maltese/bd16bl-hub-maltese-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 87,
+    "name": "Манчестерский терьер",
+    "size": "Мелкие",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Manchester_Terrier/bd246bl-hub-manchester-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 88,
+    "name": "Маррема-абруцкая овчарка",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пастушьи и скотогонные",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Maremma_Sheepdog/bd247bl-hub-maremma-and-the-abbruzes-sheepdog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 89,
+    "name": "Миниатюрный бультерьер",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": "Терьеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Miniature_Bull_Terrier/bd43bl-hub-bull-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 90,
+    "name": "Миттельшнауцер",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/MittelSchnauzer/bd109bl-hub-schnauzer-adult-lying-down.png?raw=true\r\n"
+  },
+  {
+    "id": 91,
+    "name": "Мопс",
+    "size": "Средние",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Pug/bd2bl-hub-pug-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 92,
+    "name": "Муди",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Moody/bd249bl-hub-mudi-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 93,
+    "name": "Немецкая гончая",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/German_Hound/bd177bl-hub-german-hound-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 94,
+    "name": "Немецкая овчарка",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/German_Shepherd/bd3bl-hub-german-shepherd-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 95,
+    "name": "Немецкий боксер",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Boxer/bd8bl-hub-boxer-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 96,
+    "name": "Немецкий дог",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/German_dog/bd66bl-hub-great-dane-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 97,
+    "name": "Немецкий пинчер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/German_Pinscher/bd199bl-hub-german-pinscher-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 98,
+    "name": "Новошотландский ретривер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Спаниели",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Novo_Scotia_Retriever/bd256bl-hub-nova-scotia-duck-tolling-retriever-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 99,
+    "name": "Норвежская гончая",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Norwegian_Hound/bd253bl-hub-norwegian-hound-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 100,
+    "name": "Ньюфаундленд",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Newfoundland/bd17bl-hub-newfoundland-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 101,
+    "name": "Пекинес",
+    "size": "Средние",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Pekingese/bd91bl-hub-pekingese-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 102,
+    "name": "Польская подгалянская овчарка",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пастушьи и скотогонны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Polish_Podgalian_Sheepdog/bd317bl-hub-tatra-shepherd-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 103,
+    "name": "Померанский шпиц",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Pomeranian/pomranien-pomeranian.png?raw=true\r\n"
+  },
+  {
+    "id": 104,
+    "name": "Пти брабансон",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Petit_brabancon/bd264bl-hub-petit-brabancon-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 105,
+    "name": "Пудель",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Poodle/bd94bl-hub-poodle-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 106,
+    "name": "Пули",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Puli/bd96bl-hub-puli-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 107,
+    "name": "Пуми",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Pumi/bd97bl-hub-pumi-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 108,
+    "name": "Родезийский риджбек",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Rhodesian_Ridgeback/bd98bl-hub-rhodesian-ridgeback-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 109,
+    "name": "Ротвейлер",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Rottweiler/bd14bl-hub-rottweiler-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 110,
+    "name": "Русская псовая борзая",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Russian_borzoi/bd36bl-hub-borzoi-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 111,
+    "name": "Русский черный терьер",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Russian_Black_Terrier/bd147bl-hub-russian-black-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 112,
+    "name": "Русско-европейская лайка",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Russian-European_Laika/bd287bl-hub-russian-european-laika-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 113,
+    "name": "Салюки",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Saluki/bd100bl-hub-saluki-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 114,
+    "name": "Самоед",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Samoyed/bd101bl-hub-samoyed-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 115,
+    "name": "Сенбернар",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/St_Bernard_dog/bd99bl-saint-bernard-adult-lying-down.png?raw=true\r\n"
+  },
+  {
+    "id": 116,
+    "name": "Сиба-ину",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Shiba/bd119bl-hub-shiba-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 117,
+    "name": "Сибирский хаски",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Siberian_Husky/bd11bl-hub-siberian-husky-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 118,
+    "name": "Скотч терьер",
+    "size": "Средние",
+    "category": "Охотничья",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Scotch_Terrier/bd103bl-hub-scottish-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 119,
+    "name": "Словацкий чувач",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Slovak_dude/bd298bl-hub-slovakian-chuvach-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 120,
+    "name": "Стаффордширский бультерьер",
+    "size": "Крупные",
+    "category": "Выводили для боев",
+    "group": "Терьеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Staffordshire_Bull_Terrier/bd108bl-hub-staffordshire-bull-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 121,
+    "name": "Тайский риджбек",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Thai_Ridgeback/bd318bl-hub-thai-ridgeback-dog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 122,
+    "name": "Такса",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Таксы",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Dachshund/bd4bl-hub-dachshund-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 123,
+    "name": "Тибетский мастиф",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Very_Large/Tibetan_Mastiff/bd111bl-hub-tibetan-mastiff-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 124,
+    "name": "Уиппет",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Борзые",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Whippet/bd117bl-hub-whippet-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 125,
+    "name": "Финская гончая",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Гончие",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/Finnish_Hound/bd190bl-hub-finnish-hound-adult-sitting.png?raw=true\r\n"
+  },
+  {
+    "id": 126,
+    "name": "Фокстерьер",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Fox_Terrier/bd305bl-hub-fox-terrier-smooth-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 127,
+    "name": "Французский бульдог",
+    "size": "Мелкие",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium2/French_Bulldog/bd12bl-hub-french-bulldog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 128,
+    "name": "Ховаварт",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Hovawart/bd217bl-hub-hovawart-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 129,
+    "name": "Цвергпинчер",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Пинчеры",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Miniature_Pinscher/bd86bl-hub-miniature-pinscher-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 130,
+    "name": "Цвергшнауцер\r\n",
+    "size": "Средние\r\n",
+    "category": "Охотничья\r\n",
+    "group": "Пинчеры ",
+    "fur": "Жесткошерстные\r\n",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Miniature_Schnauzer/bd87bl-hub-miniature-schnauzer-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 131,
+    "name": "Чау чау",
+    "size": "Крупные",
+    "category": "Служебные собаки",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Chow_Chow/bd52bl-hub-chow-chow-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 132,
+    "name": "Чехословацкий влчак",
+    "size": "Крупные",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Czechoslovakian_Wolfdog/bd54bl-hub-czechoslovakian-wolfdog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 133,
+    "name": "Чихуахуа",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Chihuahua/bd6bl-hub-chihuahua-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 134,
+    "name": "Шелти",
+    "size": "Средние",
+    "category": "Служебные собаки",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Sheltie/bd295bl-hub-shetland-sheepdog-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 135,
+    "name": "Шипперке",
+    "size": "Средние",
+    "category": "Пастушьи",
+    "group": "Пастушьи и скотогонные собаки",
+    "fur": "Короткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Schipperke/bd102bl-hub-schipperke-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 136,
+    "name": "Ши-тцу",
+    "size": "Средние",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Shih_Tzu/bd7bl-hub-shih-tzu-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 137,
+    "name": "Эрдельтерьер",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Medium/Airedale/bd21bl-hub-airedale-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 138,
+    "name": "Ягдтерьер",
+    "size": "Средние",
+    "category": "Охотничьи",
+    "group": "Терьеры",
+    "fur": "Жесткошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Jagdterrier_German_Hunting_Terrier/bd229bl-hub-german-hunting-terrier-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 139,
+    "name": "Японская акита",
+    "size": "Крупные",
+    "category": "Охотничьи",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Гладкошерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Large/Japanese_Akita/bd22bl-hub-akita-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 140,
+    "name": "Японский хин",
+    "size": "Миниатюрные",
+    "category": "Декоративные",
+    "group": " Декоративные и собаки-компаньоны",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Miniature/Japanese%20Chin/bd79bl-hub-japanese-chin-adult-standing.png?raw=true\r\n"
+  },
+  {
+    "id": 141,
+    "name": "Японский шпиц",
+    "size": "Средние",
+    "category": "Декоративные",
+    "group": "Шпицы и породы примитивного типа",
+    "fur": "Длинношерстные",
+    "img": "https://github.com/ViktoriaZhibul/Test/blob/master/Small/Japanese_Spitz/bd230bl-hub-japanese-spitz-adult-standing.png?raw=true\r\n"
+  }
+]

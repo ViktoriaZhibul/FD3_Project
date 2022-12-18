@@ -1,0 +1,19 @@
+.nav{
+    grid-area: nav;
+    text-align: center;
+    font-size: 14px;
+    margin: 15px;
+}
+
+.pagination {
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 1.6em;
+    line-height: 1;
+    color: #797169;
+}
+
+.pagination_active {
+    color: #277DBA;
+}

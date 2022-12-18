@@ -1,0 +1,22 @@
+.loader-shadow{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1001;
+    background: linear-gradient(180deg, rgb(251, 251, 251) 62%, rgb(39, 125, 186));
+    opacity: 0.9;
+}
+.loader{
+    box-sizing: border-box;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: 1002;
+    transform: translate(-50%, -50%);
+}

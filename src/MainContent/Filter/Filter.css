@@ -1,0 +1,42 @@
+.filter{
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.filter__button{
+    text-align: center;
+    margin: 10px 20px;
+    border: 2px solid #277DBA;
+    color: #277DBA;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.filter__link{
+    margin: 10px;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 1.6em;
+    line-height: 1;
+    color: #797169;
+}
+
+.filter_active {
+    color: #277DBA;
+}
+
+.filter__button:disabled{
+    color: #797169;
+    border-color: #797169;
+    cursor: auto;
+}
+@media(max-width: 480px) {
+    .filter{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+

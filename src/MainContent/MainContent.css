@@ -1,0 +1,29 @@
+.main{
+    max-width: 1440px;
+    min-height: calc(100vh - 176px);
+    margin: auto;
+    display: grid;
+    grid-template-areas: 
+      "search"
+      "filter" 
+      "main"
+      "nav";
+    grid-template-rows: 70px 70px auto 50px;;
+    grid-template-columns: 100%;
+}
+.search__wrap {
+    grid-area: search;
+  }
+
+.filter{
+    grid-area: filter;
+}
+.catalog{
+    grid-area: main;
+}
+
+@media (max-width: 768px) {
+  .main{
+    grid-template-rows: 70px 140px auto 50px;;
+}
+}

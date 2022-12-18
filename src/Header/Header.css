@@ -1,0 +1,108 @@
+.header{
+    margin: 0 auto;
+    max-width: 1440px;
+    box-sizing: border-box;
+    height: 90px;
+    padding: 0 3%;
+    border-bottom: 0.5px solid #E0E0E0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+.logo-name{
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.6em;
+    font-weight: 600;
+    line-height: 1.2em;
+    color: #277DBA;
+    text-align: center;
+}
+.user__container{
+    display: flex;
+    align-items: center;
+}
+.user__img-container{
+    cursor: pointer;
+    background-color: white;
+    display: inline-block;
+    border: 2px solid #67A6D3;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.user__img{
+    width: 100%;
+    border-radius: 50%;
+}
+.header__contacts-font{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1em;
+    color: #302A24;
+}
+.header-contacts__tel{
+    padding-left: 5px;
+    line-height: 1em;
+}
+.container_question {
+    margin: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: auto;
+}
+
+.shadow{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1001;
+    background: linear-gradient(180deg, rgb(251, 251, 251) 62%, rgb(39, 125, 186));
+    opacity: 0.9;
+}
+
+.logout__button{
+    display: inline-block;
+    text-align: center;
+    width: 60px;
+    height: 40px;
+    background: #4AB2FD;
+    border: 1px solid #4AB2FD;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 40px;
+    color: #FFFFFF;
+    margin: 10px;
+    cursor: pointer;
+}
+.logout__button:hover{
+    color: #4AB2FD;
+    background-color: white;
+}
+
+.button__closeModal{
+    color:rgb(39, 125, 186);
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid rgb(39, 125, 186);
+    font-size: 25px;
+    line-height: 1;
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    cursor: pointer;
+}
+@media(max-width: 480px) {
+    .header{
+        justify-content: space-evenly;
+    }
+}

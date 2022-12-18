@@ -21,7 +21,7 @@ const favoritesSlice = createSlice({
             state.idBreed = [];
         },
         deliteFavorites: (state, action) => {
-            const index = state.idBreed.findIndex(el => el === action.payload.id);
+            const index = state.idBreed.findIndex(el => el === action.payload);
             if(index !== -1) {
                 state.idBreed.splice(index, 1);
             }

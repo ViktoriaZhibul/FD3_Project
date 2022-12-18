@@ -1,5 +1,5 @@
 import React, { useMemo, useEffect } from 'react';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 
 import { useAuth } from './../../Header/use-auth';
 import { getUserFavorites } from './../../redux/favoritesSlice';
@@ -15,6 +15,7 @@ import Card from "./Card/Card"
 
 function Catalog({ breedsArr }) {
   const dispatch = useDispatch();
+  const favorites = useSelector( state => state.favorites.idBreed );
   const { isAuth, id } = useAuth();
 
   useEffect(() => {
@@ -40,7 +41,7 @@ function Catalog({ breedsArr }) {
       return (
         <div className="catalog">{breedsArr.map(el => <Card key={el.id} info={el} />)}</div>
       )
-    }, [breedsArr]);
+    }, [breedsArr, favorites]);
 
   return CatalogMemoizeed;
 };

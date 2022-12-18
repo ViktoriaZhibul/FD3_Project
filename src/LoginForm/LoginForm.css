@@ -24,7 +24,7 @@
     color: #FFFFFF;
     margin: 10px;
 }
-.input:focus{
+.log_input:focus{
     outline:none;
     border: 2px solid #FFFFFF;
 }
